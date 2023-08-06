@@ -1,6 +1,9 @@
 # react-tradingview-widget
 React component for rendering the [TradingView Advanced Real-Time Chart Widget](https://www.tradingview.com/widget/advanced-chart/).
 
+## Compatibility
+This fork is made compatible with React 18.x
+
 ## Install
 `yarn add react-tradingview-widget`
 or
